@@ -75,7 +75,7 @@ Distribuído sob a licença MIT. Veja LICENSE para mais detalhes.
 ---
 
 Desenvolvido com ☕ por Ramon Alves
-(📚 Acesse o Google Colab)[] | (💻 Mais projetos no GitHub)[]
+(📚 Acesse o Google Colab)[https://colab.research.google.com/drive/12bUHSHdEeqKEBzPq7QSCK-PqjhUF0YDu#scrollTo=SRs8tmIlne2K] | (💻 Mais projetos no GitHub)[https://github.com/RamonAlvesPS]
 
 ---
 
